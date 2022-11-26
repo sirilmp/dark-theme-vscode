@@ -10,14 +10,18 @@ I know most of the developers are liked dark themes so that's why I created only
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
 
 
-### 🐞🐞 For Bugs 🐞🐞
+### 📝 Report a Bugs 🐞
 
-* [github](https://github.com/sirilmp/dark-theme-vscode/issues)
+* Report the bugs in [github](https://github.com/sirilmp/dark-theme-vscode/issues)
 
 
-### ⭐⭐ Star Rate & Write a Review ⭐⭐
+### 📝 Star Rate ⭐⭐⭐⭐⭐
 
-* If you liked this theme then please [star rate & write a review](https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm&ssr=false#review-details) of my work.
+* If you liked this theme then please [star rate](https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm) of my work.
+
+### 📝 Any Suggestions 🧏
+
+* If you have any suggestions and feedbacks then please [write](https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm&ssr=false#review-details) here.
 
 
 **Enjoy!**
