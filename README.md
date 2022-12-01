@@ -17,6 +17,8 @@ Paste the following command and press `Enter`:
 ext install SIRILMP.dark-theme-sm
 ```
 
+And pick your favourite theme.
+
 ### 📝 Report a Bugs 🐞
 
 * Report the bugs in [github](https://github.com/sirilmp/dark-theme-vscode/issues)
