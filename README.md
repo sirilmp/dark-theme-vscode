@@ -4,7 +4,7 @@ The most of the developers are liked dark themes so that's why I created only th
 
 ![Dark VS Code theme](https://raw.githubusercontent.com/sirilmp/dark-theme-vscode/main/preview.png)
 
-### Install 
+### Installation
 
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm).
 2. Click on the "Install" button.
