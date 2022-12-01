@@ -1,8 +1,6 @@
-# Dark VS Code Theme
-
-The most of the developers are liked dark themes so that's why I created only the dark theme now but in future, I am planning more themes.
-
-![Dark VS Code theme](https://raw.githubusercontent.com/sirilmp/dark-theme-vscode/main/preview.png)
+<p align="center">
+<a href="https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm#review-details"><img src="https://vsmarketplacebadge.apphb.com/rating-star/SIRILMP.dark-theme-sm.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/SIRILMP.dark-theme-sm.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS"/></a>
+</p>
 
 ### Installation
 
