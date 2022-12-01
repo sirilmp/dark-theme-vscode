@@ -1,8 +1,10 @@
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm#review-details"><img src="https://vsmarketplacebadge.apphb.com/rating-star/SIRILMP.dark-theme-sm.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/SIRILMP.dark-theme-sm.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS"/></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm"><img src="https://vsmarketplacebadge.apphb.com/installs-short/SIRILMP.dark-theme-sm.svg?style=for-the-badge&colorA=052746&colorB=abc4ff"/></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm#review-details"><img src="https://vsmarketplacebadge.apphb.com/rating-star/SIRILMP.dark-theme-sm.svg?style=for-the-badge&colorA=052746&colorB=abc4ff"/></a>
+ <a href="https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/SIRILMP.dark-theme-sm.svg?style=for-the-badge&colorA=052746&colorB=abc4ff&label=DOWNLOADS"/></a>
+ 
 </p>
-
 
 ## Getting started
 
